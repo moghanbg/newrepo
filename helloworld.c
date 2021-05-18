@@ -3,6 +3,6 @@
 int main()
 {
 printf("Hello");
-printf("Edited");
+printf("Edited to add new");
 return 0;
 }
